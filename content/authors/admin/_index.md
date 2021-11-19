@@ -39,6 +39,6 @@ superuser: true
 title: Juliette Verstaen
 ---
 
-Juliette here, I'm a marine eccology analyst at the Cooperative Institute for Marine and Atmospheric Research (CIMAR) where I integrate data for the Hawaiian Islands and American Samoa.
+Juliette here, I'm a marine ecosystems analyst at the Cooperative Institute for Marine and Atmospheric Research (CIMAR) where I integrate data for the Hawaiian Islands and American Samoa.
 
 
