@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Things I've Done
 subtitle:
 
 # Date format for experience
@@ -37,7 +37,7 @@ experience:
     location: Santa Barbara, California
     date_start: '2020-02-01'
     date_end: '2021-09-30'
-    description: Invited speakers and organized data science workshops; created and led workshops.
+    description: Invited speakers and organized data science workshops; created and led workshops
         
   - title: Data Analyst
     company: National Center for Ecological Analysis and Synthesis (NCEAS)
@@ -77,7 +77,7 @@ experience:
     location: Homestead, Florida
     date_start: '2018-07-01'
     date_end: '2019-09-30'
-    description: Developed and conducted project assessing the affect of reef health on coral reef assemblages
+    description: Developed and conducted project assessing the effect of reef health on coral reef assemblages
     
   - title: Field and Lab Technician
     company: Moorea Coral Reef LTER
